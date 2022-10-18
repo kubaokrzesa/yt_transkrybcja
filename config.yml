@@ -1,0 +1,5 @@
+link: "https://www.youtube.com/watch?v=Ng_yslZh7Kg"
+language: 'pl'
+yt_output_catalog: "yt_outputs"
+remove_wav_file: True
+remove_mp3_file: True

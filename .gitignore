@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+drafting.ipynb
+.DS_Store
+
+transcriptions/
+yt_outputs/
